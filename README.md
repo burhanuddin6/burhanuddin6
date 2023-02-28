@@ -1,8 +1,5 @@
-- 👋 Hi, I’m @burhanuddin6
-- 👀 I’m interested in Computers
-- 🌱 I’m currently learning Data Structures
-- 💞️ I’m looking to collaborate on fun projects
-- 📫 Reach me anytime on github
+Hello, I am Burhanuddin.
+Welcome to my repository!
 
 <!---
 burhanuddin6/burhanuddin6 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

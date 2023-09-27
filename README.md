@@ -35,4 +35,6 @@ Things I did/do for fun/learning:
 - *Embedded Systems*:
   - ARM microcontrollers
   - Mobile application for embedded systems
-
+ 
+- *Reverse Engineering Games*:
+  - I built a modified version of Super Mario Bros 3D for fun! Used a GitHub project to rebuild the modified game. Got to learn how good games were made in the old days by looking at the source code.
